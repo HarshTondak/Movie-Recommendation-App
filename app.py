@@ -34,7 +34,7 @@ def recommend(movie):
 
 
 # Header
-st.header('Movie Recommender System')
+st.header('Made by @HarshTondak')
 # Title
 st.title('Movie Recommender System')
 
